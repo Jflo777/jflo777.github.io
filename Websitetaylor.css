@@ -1,0 +1,16 @@
+@charset "utf-8";
+h1  {
+	-webkit-box-shadow: 0px 0px #F9F4F4;
+	box-shadow: 0px 0px #F9F4F4;
+	color: rgba(249,244,244,1.00);
+	text-align: center;
+}
+p {
+	color: #F9F4F4;
+	position: relative;
+	visibility: visible;
+	z-index: auto;
+	height: auto;
+	width: auto;
+	font-size: 1rem;
+}
